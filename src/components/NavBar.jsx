@@ -6,7 +6,7 @@ export default function NavBar() {
           <a href="/"className="text-white">HOME</a>
           <a href="/about"className="text-white">ABOUT</a>
           <a href="/contact"className="text-white">CONTACT</a>
-          <a href="/product"className="text-white">PRODDUCT</a>
+          <a href="/product"className="text-white">PRODUCT</a>
        </div>
     </>
   )
